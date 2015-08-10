@@ -1,0 +1,5 @@
+C:\git\TestRepo1\SourceCode\CA1\CA1\bin\Debug\CA1.exe
+C:\git\TestRepo1\SourceCode\CA1\CA1\bin\Debug\CA1.pdb
+C:\git\TestRepo1\SourceCode\CA1\CA1\obj\Debug\CA1.csprojResolveAssemblyReference.cache
+C:\git\TestRepo1\SourceCode\CA1\CA1\obj\Debug\CA1.exe
+C:\git\TestRepo1\SourceCode\CA1\CA1\obj\Debug\CA1.pdb
